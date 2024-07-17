@@ -1,0 +1,45 @@
+nav{
+  width: 1180px;
+  background-color: rgb(125, 125, 212);
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+}
+a{
+  padding: 10px;
+  text-decoration: none;
+  color: white;
+}
+.footer{
+  width: 1030px;
+  background-color: aqua;
+}
+.hr{
+  height: 25px;
+  background-color: orangered;
+  color: white;
+  letter-spacing: 3px;
+  word-spacing: 2px;
+}
+.goal{
+  background-color: rgb(19, 19, 74);
+  color: whitesmoke;
+  text-align: justify;
+  padding-top: 15px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.tag{
+  background-color: white;
+  
+  
+}
+.welcome{
+  padding-top: 5px;
+ letter-spacing: 2px;
+ line-height: 30px;
+  background-color: whitesmoke;
+  text-align: justify;
+  display: flex;
+  word-spacing: 2px;
+}
